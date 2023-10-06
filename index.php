@@ -107,7 +107,7 @@
                                 <a href="#services">Services</a>
                             </li>
                             <li>
-                                <a href="#About">About Us</a>
+                                <a href="#about">About Us</a>
                             </li>
                         </ul>
                     </nav>

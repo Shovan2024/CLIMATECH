@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
 
     <!--Page Title-->
-    <title>Namari - Free Landing Page Template</title>
+    <title>Climatech - Transforming Sustainability</title>
 
     <!--Meta Keywords and Description-->
     <meta name="keywords" content="">
@@ -29,7 +29,7 @@
     <!-- Animate CSS-->
     <link href="css/animate.css" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/font-awesome.4.7.min.css">
     <script src="https://kit.fontawesome.com/9c07fcd144.js" crossorigin="anonymous"></script>
 
     <!--Google Webfonts-->
@@ -74,31 +74,21 @@
 
                         <!--Social Icons in Header-->
                         <ul class="social-icons">
-                            <li>
-                                <a target="_blank" title="Facebook" href="https://www.facebook.com/username">
-                                    <i class="fa-solid fa-phone"></i></i><span>Phone</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" title="Google+" href="http://google.com/+username">
-                                    <i class="fa-brands fa-whatsapp fa-1x"></i><span>Whatsapp</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" title="Twitter" href="http://www.twitter.com/username">
-                                    <i class="fa-brands fa-linkedin fa-1x"></i><span>Linkedin</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" title="Instagram" href="http://www.instagram.com/username">
-                                    <i class="fa fa-instagram fa-1x"></i><span>Instagram</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" title="behance" href="http://www.behance.net">
-                                    <i class="fa fa-facebook fa-1x"></i><span>Facebook</span>
-                                </a>
-                            </li>
+                        <li>
+                    <a target="_blank" title="whatsapp" href="mailto:deependra@climatech.co.in">
+                        <i class="fa-solid fa-at"></i><span>Click here to Mail us</span>
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" title="linkedin" href="https://in.linkedin.com/company/climatech-environment-pvt-ltd">
+                        <i class="fa-brands fa-linkedin fa-1x"></i><span>Get Connect with us on LinkedIN</span>
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" title="instagram" href="https://instagram.com/climatech_env">
+                        <i class="fa fa-instagram fa-1x"></i><span>Follow us on Instagram</span>
+                    </a>
+                </li>
                         </ul>
                         <!--End of Social Icons in Header-->
 
@@ -117,7 +107,7 @@
                                 <a href="#services">Services</a>
                             </li>
                             <li>
-                                <a href="#testimonials">About Us</a>
+                                <a href="#About">About Us</a>
                             </li>
                         </ul>
                     </nav>
@@ -140,7 +130,7 @@
                 </div>
 
                 <!--Call to Action-->
-                <a href="#" class="button">CONTACT US NOW</a>
+                <a href="mailto:deependra@climatech.co.in" class="button">CONTACT US NOW</a>
                 <!--End Call to Action-->
 
             </div>
@@ -161,7 +151,7 @@
                         <h3>OUR TECHNOLOGY</h3>
                         <h2 class="section-title">DIRECT AIR CARBON CAPTURE & UTILIZATION</h2>
                         <p class="section-subtitle">DACC+U excels in capturing anthropogenic CO<sub>2</sub> 
-                            and flue gas, decomposing it to graphitic carbon, and converting it into valuable biofuel, marking a significant advancement in sustainable carbon management.</p>
+                            and flue gas, decomposing it to Graphitic Carbon, and converting it into valuable biofuel, marking a significant advancement in sustainable carbon management.</p>
                     </div>
 
                 </div>
@@ -219,7 +209,7 @@
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
                             <h4>CONVERTING CO<sub>2</sub> INTO BIOFUELS</h4>
-                            <p>Transforming CO2 into biofuels: Nature's waste becomes tomorrow's energy, powering a sustainable future for generations to come.</p>
+                            <p>Transforming CO<sub>2</sub> into biofuels: Nature's waste becomes tomorrow's energy, powering a sustainable future for generations to come.</p>
                         </div>
                     </div>
                     <!--End of Icon Block-->
@@ -254,7 +244,7 @@
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
                             <h4>ZERO NEED FOR STORAGE</h4>
-                            <p>Our technology excels in direct carbon capture & decomposition, eliminating the need for storage.</p>
+                            <p>Our technology excels in Direct Carbon Capture & Decomposition, eliminating the need for storage.</p>
                         </div>
                     </div>
                     <!--End of Icon Block-->
@@ -283,7 +273,7 @@
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
                             <h4>SUSTAINABLE FUTURE</h4>
-                            <p>Our process ensures a sustainable future by capturing and decomposing carbon, while also producing ecodly biofuels like Methanol and Ethanol.</p>
+                            <p>Our process ensures a sustainable future by capturing and decomposing carbon, while also producing ecodly biofuels like Methanol and Ethanol without sulphur content.</p>
                         </div>
                     </div>
                     <!--End of Icon Block-->
@@ -327,7 +317,7 @@
                         <p class="section-subtitle">Climatech offers cutting-edge carbon capture solutions for diverse industries. Our services encompass custom-engineered systems, comprehensive consulting, and ongoing support. We prioritize sustainability, providing industry leaders with efficient, environmentally-conscious solutions tailored to their specific needs.</p>
                     </div>
                     <!-- Just replace the Video ID "UYJ5IjBRlW8" with the ID of your video on YouTube (Found within the URL) -->
-                    <a href="#" data-videoid="UYJ5IjBRlW8" data-videosite="youtube" class="button video link-lightbox">
+                    <a href="https://drive.google.com/file/d/1swyP5abjb_1yM9pMF0n2dFvBcFqKzxl0/view?usp=sharing" class="button video link-lightbox" download >
                         READ OUR METHODOLOGY <i class="fa fa-play" aria-hidden="true"></i>
                     </a>
                 </div>
@@ -348,7 +338,7 @@
         <!--End of Content Section-->
 
         <!--Testimonials-->
-        <aside id="testimonials" class="scrollto text-center" data-enllax-ratio=".2">
+        <aside id="about" class="scrollto text-center" data-enllax-ratio=".2">
 
             <div class="row clearfix">
 
@@ -357,49 +347,46 @@
                     <h2 class="section-title">OUR TEAM</h2>
                 </div>
 
+                <blockquote class="col-3 testimonial classic">
+                        <img src="images/people/person1.jpeg" alt="User"/>
+                        <h3 style="font-size: medium;">Deependra Singh Shekhawat <br> Co-Founder & CEO</h3>
+                </blockquote>  
+
                 <!--User Testimonial-->
                 <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-1.jpg" alt="User"/>
+                    <img src="images/people/person2.jpeg" alt="User"/>
                     <h3 style="font-size: medium;">Dr. Kuldeep Singh Rathore <br> Co-Founder & COO</h3>
-                    <footer> <i class="fa-brands fa-linkedin fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-solid fa-envelope fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-brands fa-instagram fa-2x"></i> </footer>
+ <!--                   <footer> <i class="fa-brands fa-linkedin fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-solid fa-envelope fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-brands fa-instagram fa-2x"></i> </footer>   -->
                 </blockquote>
                 <!-- End of Testimonial-->
 
                 <!--User Testimonial-->
                 <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-1.jpg" alt="User"/>
+                    <img src="images/people/person3.jpeg" alt="User"/>
                     <h3 style="font-size: medium;">Dr. Pramod Sharma <br> Co-Founder & CSO</h3>
-                    <footer> <i class="fa-brands fa-linkedin fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-solid fa-envelope fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-brands fa-instagram fa-2x"></i> </footer>
                 </blockquote>
                 <!-- End of Testimonial-->
 
                 <!--User Testimonial-->
                 <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-1.jpg" alt="User"/>
+                    <img src="images/people/person4.jpg" alt="User"/>
                     <h3 style="font-size: medium;">Dr. Himmat Singh Kushwaha <br> CTO</h3>
-                    <footer> <i class="fa-brands fa-linkedin fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-solid fa-envelope fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-brands fa-instagram fa-2x"></i> </footer>
                 </blockquote>
                 <!-- End of Testimonial-->
                 <div>
                     <!--User Testimonial-->
-                    <blockquote class="col-3 testimonial classic">
-                        <img src="images/user-images/user-1.jpg" alt="User"/>
-                        <h3 style="font-size: medium;">Deependra Singh Shekhawat <br> Co-Founder & CEO</h3>
-                        <footer> <i class="fa-brands fa-linkedin fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-solid fa-envelope fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-brands fa-instagram fa-2x"></i> </footer>
-                    </blockquote>               
+             
                 <!-- End of Testimonial-->
                 <!--User Testimonial-->
                     <blockquote class="col-3 testimonial classic">
-                        <img src="images/user-images/user-1.jpg" alt="User"/>
+                        <img src="images/people/person5.jpeg" alt="User"/>
                         <h3 style="font-size: medium;">Kushal Singh Rathore <br> Project Head</h3>
-                        <footer> <i class="fa-brands fa-linkedin fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-solid fa-envelope fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-brands fa-instagram fa-2x"></i> </footer>
                     </blockquote>
                 <!-- End of Testimonial-->
                 <!--User Testimonial-->
                     <blockquote class="col-3 testimonial classic">
-                        <img src="images/user-images/user-1.jpg" alt="User"/>
+                        <img src="images/people/person6.jpeg" alt="User"/>
                         <h3 style="font-size: medium;">Shovan Samanta <br> R&D Engineer</h3>
-                        <footer> <i class="fa-brands fa-linkedin fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-solid fa-envelope fa-2x"></i>&nbsp; &nbsp; &nbsp; <i class="fa-brands fa-instagram fa-2x"></i> </footer>
                     </blockquote>
                 </div>
                 <!-- End of Testimonial-->
@@ -410,7 +397,7 @@
         <!--End of Testimonials-->
 
                 <!--Content Section-->
-                <div id="services" class="scrollto clearfix">
+                <div id="founder" class="scrollto clearfix">
 
                     <div class="row no-padding-bottom clearfix">
             
@@ -443,7 +430,7 @@
                 <!--End of Content Section-->
 
         <!--Clients-->
-        <section id="clients" class="scrollto clearfix">
+        <section id="ungoals" class="scrollto clearfix">
             <div class="row clearfix">
 
                 <div class="col-3">
@@ -506,11 +493,8 @@
                 <div class="col-2-3">
 
                     <a class="col-2">
-                        <img src="images/gallery-images/miic.png" alt="miic"/>
+                        <img src="images/miic.png" alt="miic"/>
                       </a>
-                    <a class="col-2">
-                        <img src="images/gallery-images/tata.png" alt="tata"/>
-                    </a>
 
                 </div>
 
@@ -530,28 +514,18 @@
             <!--Social Icons in Footer-->
             <ul class="col-2 social-icons">
                 <li>
-                    <a target="_blank" title="phone" href="https://www.facebook.com/username">
-                        <i class="fa-solid fa-phone"></i></i><span>Phone</span>
+                    <a target="_blank" title="whatsapp" href="mailto:deependra@climatech.co.in">
+                        <i class="fa-solid fa-at"></i><span>Click here to Mail us</span>
                     </a>
                 </li>
                 <li>
-                    <a target="_blank" title="whatsapp" href="http://google.com/+username">
-                        <i class="fa-brands fa-whatsapp fa-1x"></i><span>Whatsapp</span>
+                    <a target="_blank" title="linkedin" href="https://in.linkedin.com/company/climatech-environment-pvt-ltd>
+                        <i class="fa-brands fa-linkedin fa-1x"></i><span>Get Connect with us on LinkedIN</span>
                     </a>
                 </li>
                 <li>
-                    <a target="_blank" title="linkedin" href="http://www.twitter.com/username">
-                        <i class="fa-brands fa-linkedin fa-1x"></i><span>LinkedIN</span>
-                    </a>
-                </li>
-                <li>
-                    <a target="_blank" title="instagram" href="http://www.instagram.com/username">
-                        <i class="fa fa-instagram fa-1x"></i><span>Instagram</span>
-                    </a>
-                </li>
-                <li>
-                    <a target="_blank" title="facebook" href="http://www.behance.net">
-                        <i class="fa fa-facebook fa-1x"></i><span>Facebook</span>
+                    <a target="_blank" title="instagram" href="https://instagram.com/climatech_env">
+                        <i class="fa fa-instagram fa-1x"></i><span>Follow us on Instagram</span>
                     </a>
                 </li>
             </ul>

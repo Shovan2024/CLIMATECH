@@ -317,7 +317,7 @@
                         <p class="section-subtitle">Climatech offers cutting-edge carbon capture solutions for diverse industries. Our services encompass custom-engineered systems, comprehensive consulting, and ongoing support. We prioritize sustainability, providing industry leaders with efficient, environmentally-conscious solutions tailored to their specific needs.</p>
                     </div>
                     <!-- Just replace the Video ID "UYJ5IjBRlW8" with the ID of your video on YouTube (Found within the URL) -->
-                    <a href="https://drive.google.com/file/d/1swyP5abjb_1yM9pMF0n2dFvBcFqKzxl0/view?usp=sharing" class="button video link-lightbox">
+                    <a href="https://drive.google.com/file/d/1swyP5abjb_1yM9pMF0n2dFvBcFqKzxl0/view" class="button video link-lightbox">
                         READ OUR METHODOLOGY <i class="fa fa-play" aria-hidden="true"></i>
                     </a>
                 </div>

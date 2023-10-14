@@ -775,9 +775,9 @@ h6 {
 }
 
 .section-heading h3 {
-    font-size: 14px;
+    font-size: 20px;
     font-weight: bold;
-    color: #ccc;
+    color: #159920;
     letter-spacing: 2px;
     padding-bottom: 0;
 }
@@ -801,7 +801,6 @@ h6 {
 
 #banner .section-heading:before {
     content: "";
-    display:flex;
     width: 30px;
     height: 5px;
     margin-top: 30px;

@@ -94,7 +94,6 @@ a:hover, #header.nav-solid nav a:hover {
 
 .section-heading h2:after {
     background:#000000;
-    content:"";
     display:block;
     width:30px;
     height:5px;
@@ -127,7 +126,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/banner.gif") no-repeat center top;
+    background: url("../images/banner-images/banner.jpg") no-repeat center top;
     background-size:cover;
 }
 
@@ -172,11 +171,9 @@ body {
     font-size:42px;
     line-height:72px;
     font-weight:1000;
-    background-color: rgba(255, 255, 255, 0.5);
     padding: 20px;
-    border-radius: 30px;
     margin-top: 10%;
-    color: rgba(21, 153, 32, 0.7);
+    color: rgba(0, 0, 0,);
 }
 
 #banner h2 {

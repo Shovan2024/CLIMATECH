@@ -503,6 +503,7 @@ section {
     line-height: 71px;
     display: block;
     padding: 0 50px;
+    color: rgba(21, 153, 32, 0.7);
 }
 
 #header nav a:hover {

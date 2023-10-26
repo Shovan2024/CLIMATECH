@@ -426,6 +426,27 @@ section {
     position: relative;
     z-index: 1;
 }
+.contact {
+    color:white; 
+    border-color:white;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    padding: 11px 16px;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    transition: all .3s linear;
+    display: inline-block;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.contact:hover {
+    color: #2dee3d;
+    border-color:#2dee3d;
+}
+
+
 
 .play-icon:after {
     pointer-events: none;
@@ -2334,7 +2355,10 @@ blockquote {
     width: 100%;
     text-align: left;
     font: bold 16px sans-serif;
-    padding: 55px 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 20px;
   }
   
   .footer-distributed .footer-left,
